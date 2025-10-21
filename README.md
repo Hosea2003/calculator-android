@@ -41,5 +41,5 @@ It supports both **Light Mode** and **Dark Mode** for an enhanced user experienc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/Hosea2003/calculator-android.git
    cd calculator-app
