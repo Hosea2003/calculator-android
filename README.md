@@ -24,7 +24,7 @@ It supports both **Light Mode** and **Dark Mode** for an enhanced user experienc
 ![Light Mode](https://i.postimg.cc/QN79FDs5/Screenshot-from-2025-10-21-20-24-31.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](https://i.postimg.cc/QN79FDs5/Screenshot-from-2025-10-21-20-24-31.png)
+![Dark Mode](https://i.postimg.cc/dtK7dft4/Screenshot-from-2025-10-21-20-27-30.png)
 
 ---
 
