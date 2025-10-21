@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryForeground">#FFF</color>
+    <color name="card">#4DB6AC</color>
+    <color name="background">#313131</color>
+    <color name="numberCard">#2A2A2A</color>
+    <color name="numberContainer">#262626</color>
+    <color name="specialColor">#2A2A2A</color>
+    <color name="specialForeground">@color/card</color>
+</resources>
