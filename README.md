@@ -20,9 +20,11 @@ It supports both **Light Mode** and **Dark Mode** for an enhanced user experienc
 
 ## 🖼️ Screenshots
 
-| Light Mode | Dark Mode |
-|-------------|------------|
-| ![Light Mode](https://i.postimg.cc/fkwTP6VT/Screenshot1.png) | ![Dark Mode](https://i.postimg.cc/t72CG26x/Screenshot2.png) |
+### ☀️ Light Mode
+![Light Mode](https://i.postimg.cc/fkwTP6VT/Screenshot1.png)
+
+### 🌙 Dark Mode
+![Dark Mode](https://i.postimg.cc/t72CG26x/Screenshot2.png)
 
 ---
 
